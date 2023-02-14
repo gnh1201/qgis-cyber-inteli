@@ -1,3 +1,5 @@
+# shodan.py
+# Require: QGIS (3.28.3-Firenze)
 # Namhyeon Go <abuse@catswords.net>
 # 2023-02-14
 
